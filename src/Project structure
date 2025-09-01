@@ -1,0 +1,12 @@
+src/
+  components/
+    FormField.jsx
+    PasswordField.jsx
+  pages/
+    Login.jsx
+    SignUp.jsx
+  hooks/
+    useAuthStore.js
+  App.jsx
+  index.js
+  styles.css
